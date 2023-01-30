@@ -7,7 +7,7 @@ import Contact from "./components/contact";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/HotelLandingPage-React">
       <Header />
       <Routes>
         <Route path="/about" element={<About />} />
