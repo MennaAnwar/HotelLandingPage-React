@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/HotelLandingPage-React/static/css/main.3ce0c1f2.css",
+    "main.js": "/HotelLandingPage-React/static/js/main.8259886d.js",
+    "static/media/pool.jfif": "/HotelLandingPage-React/static/media/pool.3b25602717995dd2a942.jfif",
+    "static/media/bakeries.jfif": "/HotelLandingPage-React/static/media/bakeries.01b586231e80db4c4440.jfif",
+    "static/media/food.jfif": "/HotelLandingPage-React/static/media/food.9e3ea6331d273714d5dd.jfif",
+    "static/media/outside_pool.jfif": "/HotelLandingPage-React/static/media/outside_pool.e33c2ff25b97f4b828a3.jfif",
+    "static/media/bar.jfif": "/HotelLandingPage-React/static/media/bar.d5926855da161b002444.jfif",
+    "static/media/undersea_room.jfif": "/HotelLandingPage-React/static/media/undersea_room.b817ebfaec6e4917298c.jfif",
+    "static/media/Restaurant.jfif": "/HotelLandingPage-React/static/media/Restaurant.986614707769bbad114b.jfif",
+    "static/media/restaurant2.jfif": "/HotelLandingPage-React/static/media/restaurant2.a8b7e66a1cc26a642eb2.jfif",
+    "static/media/food3.jfif": "/HotelLandingPage-React/static/media/food3.c791663762aa36a3ba5e.jfif",
+    "static/media/bedroom 4.jfif": "/HotelLandingPage-React/static/media/bedroom 4.ff3b3065041e9b673aea.jfif",
+    "static/media/bedroom2.jfif": "/HotelLandingPage-React/static/media/bedroom2.f21f35db0a44d74a9d14.jfif",
+    "static/media/bedroom.jfif": "/HotelLandingPage-React/static/media/bedroom.0d22969c507b5e12e56f.jfif",
+    "static/media/bedroom5.jfif": "/HotelLandingPage-React/static/media/bedroom5.a05679e39f4ea0ea98d9.jfif",
+    "static/media/food2.jfif": "/HotelLandingPage-React/static/media/food2.aa3d18e9cd86af817f5d.jfif",
+    "static/media/hotel.jfif": "/HotelLandingPage-React/static/media/hotel.4c727e95f20f1a69be3d.jfif",
+    "index.html": "/HotelLandingPage-React/index.html",
+    "main.3ce0c1f2.css.map": "/HotelLandingPage-React/static/css/main.3ce0c1f2.css.map",
+    "main.8259886d.js.map": "/HotelLandingPage-React/static/js/main.8259886d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce0c1f2.css",
+    "static/js/main.8259886d.js"
+  ]
+}
