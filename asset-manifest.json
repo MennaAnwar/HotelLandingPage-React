@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HotelLandingPage-React/static/css/main.3ce0c1f2.css",
-    "main.js": "/HotelLandingPage-React/static/js/main.8259886d.js",
+    "main.js": "/HotelLandingPage-React/static/js/main.60e4488b.js",
     "static/media/pool.jfif": "/HotelLandingPage-React/static/media/pool.3b25602717995dd2a942.jfif",
     "static/media/bakeries.jfif": "/HotelLandingPage-React/static/media/bakeries.01b586231e80db4c4440.jfif",
     "static/media/food.jfif": "/HotelLandingPage-React/static/media/food.9e3ea6331d273714d5dd.jfif",
@@ -19,10 +19,10 @@
     "static/media/hotel.jfif": "/HotelLandingPage-React/static/media/hotel.4c727e95f20f1a69be3d.jfif",
     "index.html": "/HotelLandingPage-React/index.html",
     "main.3ce0c1f2.css.map": "/HotelLandingPage-React/static/css/main.3ce0c1f2.css.map",
-    "main.8259886d.js.map": "/HotelLandingPage-React/static/js/main.8259886d.js.map"
+    "main.60e4488b.js.map": "/HotelLandingPage-React/static/js/main.60e4488b.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce0c1f2.css",
-    "static/js/main.8259886d.js"
+    "static/js/main.60e4488b.js"
   ]
 }
